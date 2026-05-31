@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-* 🎓 **Education:** Computer Science Engineering Student at SVPCET (6th Sem) | **8.82 GPA**
+* 🎓 **Education:** Computer Science Engineering Student at SVPCET (6th Sem) |
 * 💻 **Core Engineering:** Python • C/C++ • Bash Scripting • SQL (MySQL)
 * 🧠 **Focus Areas:** Automated Security Engineering, Network Defense, Agentic AI & RAG Architecture, and VAPT.
 * 🚀 I specialize in building automated infrastructure and custom security tools, with a strong interest in Zero-Trust network telemetry and data extraction pipelines.
