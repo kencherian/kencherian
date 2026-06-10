@@ -20,12 +20,12 @@
 ## 📊 GitHub Ecosystem & Metrics:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username==kencherian&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user==kencherian&theme=tokyonight" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kencherian&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kencherian&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username==kencherian&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kencherian&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" height="180" />
 </p>
 
 ---
