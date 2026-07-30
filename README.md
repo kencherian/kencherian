@@ -16,13 +16,20 @@
 - 🔐 **Cryptography:** Symmetric/Asymmetric Encryption (AES, RSA), Secure Hashing Standards
 
 ---
-
 ## 📊 GitHub Ecosystem & Metrics:
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kencherian&theme=tokyonight" alt="Activity Graph" width="100%" />
+  <!-- Self-Hosted GitHub Stats Card -->
+  <img src="github-readme-stats-d2yxhjhh9-kencherian05-1887s-projects.vercel.app/api?username=kencherian&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
+
+  <!-- GitHub Streak Card -->
+  <img src="https://streak-stats.demolab.com/?user=kencherian&theme=tokyonight" alt="GitHub Streak" height="180" />
 </p>
 
+<p align="left">
+  <!-- Self-Hosted Top Languages Card -->
+  <img src="github-readme-stats-d2yxhjhh9-kencherian05-1887s-projects.vercel.app/api/top-langs/?username=kencherian&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" height="180" />
+</p>
 ---
 
 ## 🌐 Connect With Me:
