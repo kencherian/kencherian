@@ -33,6 +33,11 @@
   <img src="https://github-readme-stats-d2yxhjhh9-kencherian05-1887s-projects.vercel.app/api/top-langs/?username=kencherian&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" height="180" />
 </p>
 
+<p align="left">
+  <!-- Standard Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kencherian&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" height="180" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me:
