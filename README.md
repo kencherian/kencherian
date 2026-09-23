@@ -1,41 +1,131 @@
-# 💫 About Me:
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[
+]{article}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{longtable,booktabs,array}
+\newcounter{none} % for unnumbered tables
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
 
-* 🎓 **Education:** Computer Science Engineering Student at SVPCET (6th Sem)
-* 💻 **Core Engineering:** Python • C/C++ • Bash Scripting • SQL (MySQL)
-* 🧠 **Focus Areas:** Automated Security Engineering, Network Defense, Agentic AI & RAG Architecture, and VAPT.
-* 🚀 I specialize in building automated infrastructure and custom security tools, with a strong interest in Zero-Trust network telemetry and data extraction pipelines.
+\author{}
+\date{}
 
----
+\begin{document}
 
-## 💻 Technical Stack & Domain Expertise:
+\section{💫 About Me:}\label{about-me}
 
-- 🛡️ **Network Security & Defense:** Zero-Trust Frameworks, Active Packet Sniffing, VLSM Bitwise Logic
-- 🔴 **Offensive Security & VAPT:** Vulnerability Assessment, Network Reconnaissance, Threat Profiling
-- 🤖 **AI & Automation Engineering:** Agentic AI Architecture, Retrieval-Augmented Generation (RAG)
-- ⚙️ **Low-Level Architecture:** Operating Systems, Linux/Unix Environments, Basic Static/Dynamic Analysis
-- 🔐 **Cryptography:** Symmetric/Asymmetric Encryption (AES, RSA), Secure Hashing Standards
+\begin{itemize}
+\tightlist
+\item
+  🎓 \textbf{Education:} Computer Science Engineering Student at SVPCET
+  (6th Sem)
+\item
+  💻 \textbf{Core Engineering:} Python • TypeScript/JavaScript • C/C++ •
+  PHP • SQL/NoSQL
+\item
+  🧠 \textbf{Focus Areas:} Full-Stack Development (MERN/Next.js),
+  Agentic AI \& RAG Architecture, Automated Security Engineering, and
+  Network Defense.
+\item
+  🚀 I specialize in building scalable web applications, custom security
+  tools, and AI-driven solutions, with a strong interest in merging
+  Zero-Trust network telemetry with robust data pipelines.
+\end{itemize}
 
----
-## 📊 GitHub Ecosystem & Metrics:
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-<p align="left">
-  <!-- Self-Hosted GitHub Stats Card -->
-  <img src="github-readme-stats-d2yxhjhh9-kencherian05-1887s-projects.vercel.app/api?username=kencherian&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
+\subsection{💻 Technical Stack \& Domain
+Expertise:}\label{technical-stack-domain-expertise}
 
-  <!-- GitHub Streak Card -->
-  <img src="https://streak-stats.demolab.com/?user=kencherian&theme=tokyonight" alt="GitHub Streak" height="180" />
-</p>
+\begin{itemize}
+\tightlist
+\item
+  🌐 \textbf{Full-Stack Development:} React.js, Next.js, Node.js,
+  Express.js, Tailwind CSS, Appwrite
+\item
+  🗄️ \textbf{Databases \& Cloud:} MongoDB, MySQL, MinIO, Firebase,
+  Docker
+\item
+  🤖 \textbf{AI \& Machine Learning:} Retrieval-Augmented Generation
+  (RAG), PyTorch, FAISS, YOLOv8, Local LLMs (Ollama)
+\item
+  🛡️ \textbf{Network Security \& Defense:} Wazuh SIEM, Zero-Trust
+  Frameworks, Active Packet Sniffing (Scapy), Nmap
+\item
+  🔴 \textbf{Offensive Security \& VAPT:} Vulnerability Assessment,
+  Network Reconnaissance, Threat Profiling
+\item
+  ⚙️ \textbf{Low-Level Architecture:} Operating Systems, Linux/Unix
+  Environments, Basic Static/Dynamic Analysis
+\item
+  🔐 \textbf{Cryptography:} Symmetric/Asymmetric Encryption (AES, RSA),
+  Secure Hashing Standards
+\end{itemize}
 
-<p align="left">
-  <!-- Self-Hosted Top Languages Card -->
-  <img src="github-readme-stats-d2yxhjhh9-kencherian05-1887s-projects.vercel.app/api/top-langs/?username=kencherian&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" height="180" />
-</p>
----
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 0\tabcolsep) * \real{0.0556}}@{}}
+\toprule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\#\# 📊 GitHub Ecosystem \& Metrics: \\
+ \\
+ \\
+ \\
+\end{longtable}
+}
 
-## 🌐 Connect With Me:
+\subsection{🌐 Connect With Me:}\label{connect-with-me}
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ken-cherian/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+\end{document}
