@@ -40,21 +40,21 @@ ken_os@server:~$ ./fetch_identity.sh --decrypt
 ken_os@server:~$ ./run_diagnostics.sh --modules="ALL"
 ```
 
-> **[ OK ] SYSTEM_CORE_LANGUAGES:** `Python` `TypeScript` `JavaScript` `C` `C++` `PHP` `SQL`
+> [ OK ] SYSTEM_CORE_LANGUAGES: Python TypeScript JavaScript C C++ PHP SQL
 <br>
-> **[ OK ] FULL_STACK_FRAMEWORKS:** `React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS`
+> [ OK ] FULL_STACK_FRAMEWORKS: React.js Next.js Node.js Express.js Tailwind CSS
 <br>
-> **[ OK ] CLOUD_DATABASE_INFRA:** `MongoDB` `MySQL` `MinIO` `Firebase` `Docker` `Appwrite`
+> [ OK ] CLOUD_DATABASE_INFRA: MongoDB MySQL MinIO Firebase Docker Appwrite
 <br>
-> **[ OK ] AI_NEURAL_ENGINES:** `RAG` `PyTorch` `FAISS` `YOLOv8` `Ollama (Local LLMs)`
+> [ OK ] AI_NEURAL_ENGINES: RAG PyTorch FAISS YOLOv8 Ollama (Local LLMs)
 <br>
-> **[ OK ] CYBERSEC_DEFENSE:** `Wazuh SIEM` `Zero-Trust` `Scapy` `Nmap`
+> [ OK ] CYBERSEC_DEFENSE: Wazuh SIEM Zero-Trust Scapy Nmap
 <br>
-> **[ OK ] OFFENSIVE_OPERATIONS:** `VAPT` `Threat Profiling` `Reconnaissance`
+> [ OK ] OFFENSIVE_OPERATIONS: VAPT Threat Profiling Reconnaissance
 <br>
-> **[ OK ] LOW_LEVEL_SYS:** `Linux/Unix` `OS Architecture` `Static/Dynamic Analysis`
+> [ OK ] LOW_LEVEL_SYS: Linux/Unix OS Architecture Static/Dynamic Analysis
 <br>
-> **[ OK ] CRYPTOGRAPHY:** `AES` `RSA` `Secure Hashing Standards`
+> [ OK ] CRYPTOGRAPHY: AES RSA Secure Hashing Standards
 
 ```bash
 ken_os@server:~$ ./display_telemetry.exe --ui="tokyonight"
