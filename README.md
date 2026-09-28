@@ -74,13 +74,6 @@ ken_os@server:~$ ./display_telemetry.exe --ui="tokyonight"
 ```bash
 ken_os@server:~$ ping -c 1 external_networks
 ```
-```text
-PING external_networks (127.0.0.1) 56(84) bytes of data.
-64 bytes from secure_gateway: icmp_seq=1 ttl=64 time=0.042 ms
-
---- external_networks ping statistics ---
-1 packets transmitted, 1 received, 0% packet loss
-```
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ken-cherian/" target="_blank">
