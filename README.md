@@ -29,7 +29,7 @@ ken_os@server:~$ ./fetch_identity.sh --decrypt
 ```json
 {
   "USER": "Ken Cherian",
-  "DESIGNATION": "Computer Science Engineering Student @ SVPCET (6th Sem)",
+  "DESIGNATION": "Computer Science Engineering Student @ SVPCET (7th Sem)",
   "MISSION_DIRECTIVE": "Building scalable web applications, custom security tools, and AI-driven solutions.",
   "SPECIALIZATION": "Merging Zero-Trust network telemetry with robust data pipelines.",
   "CURRENT_STATUS": "ACTIVE_DEFENSE_MODE"
