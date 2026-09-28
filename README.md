@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #4af626; font-family: monospace;">SYS_ADMIN: KEN CH</h1>
+<h1 align="center" style="color: #4af626; font-family: monospace;">SYS_ADMIN: KEN CHERIAN</h1>
 
 ```bash
 ken_os@server:~$ cat /etc/motd
@@ -32,17 +32,32 @@ ken_os@server:~$ ./fetch_identity.sh --decrypt
 ```bash
 ken_os@server:~$ ./run_diagnostics.sh --modules="ALL"
 ```
-```text
-| [ OK ] SYSTEM_CORE_LANGUAGES: Python TypeScript JavaScript C C++ PHP SQL
+<p align="center">
+  <b>SYSTEM_CORE_LANGUAGES</b><br>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,php,mysql" />
+</p>
 
-> [ OK ] FULL_STACK_FRAMEWORKS: React.js Next.js Node.js Express.js Tailwind CSS
-> [ OK ] CLOUD_DATABASE_INFRA: MongoDB MySQL MinIO Firebase Docker Appwrite
-> [ OK ] AI_NEURAL_ENGINES: RAG PyTorch FAISS YOLOv8 Ollama (Local LLMs)
-> [ OK ] CYBERSEC_DEFENSE: Wazuh SIEM Zero-Trust Scapy Nmap
-> [ OK ] OFFENSIVE_OPERATIONS: VAPT Threat Profiling Reconnaissance
-> [ OK ] LOW_LEVEL_SYS: Linux/Unix OS Architecture Static/Dynamic Analysis
-> [ OK ] CRYPTOGRAPHY: AES RSA Secure Hashing Standards
-```
+<p align="center">
+  <b>FULL_STACK_FRAMEWORKS</b><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+</p>
+
+<p align="center">
+  <b>CLOUD_DATABASE_INFRA</b><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,docker,appwrite" />
+</p>
+
+<p align="center">
+  <b>AI_NEURAL_ENGINES</b><br>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <br><i>* Also utilizing: RAG, FAISS, YOLOv8, Ollama (Local LLMs)</i>
+</p>
+
+<p align="center">
+  <b>CYBERSEC_DEFENSE & LOW_LEVEL_SYS</b><br>
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,bash,network" />
+  <br><i>* Specializing in: Wazuh SIEM, Zero-Trust, Scapy, Nmap, VAPT, Cryptography</i>
+</p>
 
 ```bash
 ken_os@server:~$ ./display_telemetry.exe --ui="tokyonight"
