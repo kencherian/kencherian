@@ -18,6 +18,18 @@
 ```bash
 ken_os@server:~$ cat /etc/motd
 ```
+```diff
+@@ [ SYSTEM_TELEMETRY :: K E N _ O S v7.0 ] @@
+
+   ██╗  ██╗███████╗███╗   ██╗     + HOST      : SVPCET-SECURE-NODE (7th Sem)
+   ██║ ██╔╝██╔════╝████╗  ██║     + KERNEL    : Linux x86_64 // DevSecOps
+   █████╔╝ █████╗  ██╔██╗ ██║     + ROLE      : Full-Stack & Security Engineer
+   ██╔═██╗ ██╔══╝  ██║╚██╗██║     ! DIRECTIVE : Scalable Web & AI Defense
+   ██║  ██╗███████╗██║ ╚████║     ! PROTOCOL  : Zero-Trust Telemetry
+   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝     - CLEARANCE : ROOT_SYSADMIN [ACTIVE]
+
++ [STATUS: ONLINE]   ! [ARCH: DISTRIBUTED]   - [DEFENSE_MODE: ENGAGED]
+```
 
 ```text
 ┌──[ /etc/motd - K E N _ O S ]────────────────────────────────────────────────────────┐
