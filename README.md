@@ -83,7 +83,7 @@ ken_os@server:~$ ./run_diagnostics.sh --modules="ALL"
 <details open>
 <summary><b>▶ 05_CYBERSEC_DEFENSE_&_LOW_LEVEL_SYS</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=kali,wireshark,cloudflare,nginx&theme=dark" alt="Cybersec Tools" />
+<img src="https://skillicons.dev/icons?i=kali,ubuntu,cloudflare,nginx&theme=dark" alt="Cybersec Tools" />
 <br/>
 <img src="https://img.shields.io/badge/Wazuh_SIEM-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh SIEM" />
 <img src="https://img.shields.io/badge/Zero--Trust-1a1b26?style=for-the-badge&logo=letsencrypt&logoColor=4af626" alt="Zero-Trust" />
