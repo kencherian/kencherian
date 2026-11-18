@@ -16,48 +16,20 @@
 </div>
 
 ```bash
-ken_os@server:~$ cat /etc/motd
+ken_os@server:~$ neofetch --config /etc/ken_os/telemetry.conf
 ```
+
 ```diff
 @@ [ SYSTEM_TELEMETRY :: K E N _ O S v7.0 ] @@
 
-   ██╗  ██╗███████╗███╗   ██╗     + HOST      : SVPCET-SECURE-NODE (7th Sem)
+   ██╗  ██╗███████╗███╗   ██╗     + HOST      : SVPCET-SECURE-NODE (7th Sem CSE)
    ██║ ██╔╝██╔════╝████╗  ██║     + KERNEL    : Linux x86_64 // DevSecOps
    █████╔╝ █████╗  ██╔██╗ ██║     + ROLE      : Full-Stack & Security Engineer
    ██╔═██╗ ██╔══╝  ██║╚██╗██║     ! DIRECTIVE : Scalable Web & AI Defense
-   ██║  ██╗███████╗██║ ╚████║     ! PROTOCOL  : Zero-Trust Telemetry
-   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝     - CLEARANCE : ROOT_SYSADMIN [ACTIVE]
+   ██║  ██╗███████╗██║ ╚████║     ! PROTOCOL  : Zero-Trust Telemetry & Data Pipelines
+   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝     - CLEARANCE : ROOT_SYSADMIN [ACTIVE_DEFENSE_MODE]
 
-+ [STATUS: ONLINE]   ! [ARCH: DISTRIBUTED]   - [DEFENSE_MODE: ENGAGED]
-```
-
-```text
-┌──[ /etc/motd - K E N _ O S ]────────────────────────────────────────────────────────┐
-│                                                                                     │
-│    _  __ _____ _   _      ____   _____      HOST     : SVPCET-SECURE-NODE (7th Sem) │
-│   | |/ /| ____| \ | |    / __ \ / ____|     KERNEL   : Linux x86_64 / DevSecOps     │
-│   | ' / | |__ |  \| |   | |  | | (___       ROLE     : Full-Stack & DevSecOps       │
-│   |  <  |  __|| . ` |   | |  | |\___ \      DIRECTIVE: Scalable Web & AI Defense    │
-│   | . \ | |___| |\  |   | |__| |____) |     PROTOCOL : Zero-Trust Telemetry         │
-│   |_|\_\|_____|_| \_|    \____/|_____/      STATUS   : ACTIVE_DEFENSE_MODE 🛡️       │
-│                                                                                     │
-├─────────────────────────────────────────────────────────────────────────────────────┤
-│  SYSTEM: ONLINE  │  ARCHITECTURE: DISTRIBUTED  │  TELEMETRY: TOKYONIGHT MONITOR     │
-└─────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-```bash
-ken_os@server:~$ ./fetch_identity.sh --decrypt
-```
-
-```json
-{
-  "USER": "Ken Cherian",
-  "DESIGNATION": "Computer Science Engineering Student @ SVPCET (7th Sem)",
-  "MISSION_DIRECTIVE": "Building scalable web applications, custom security tools, and AI-driven solutions.",
-  "SPECIALIZATION": "Merging Zero-Trust network telemetry with robust data pipelines.",
-  "CURRENT_STATUS": "ACTIVE_DEFENSE_MODE"
-}
++ [STATUS: ONLINE]   ! [ARCH: DISTRIBUTED]   - [MONITOR: TOKYONIGHT_HUD]
 ```
 
 ```bash
@@ -97,6 +69,7 @@ ken_os@server:~$ ./run_diagnostics.sh --modules="ALL"
 <br/>
 <img src="https://skillicons.dev/icons?i=kali,ubuntu,cloudflare,nginx&theme=dark" alt="Cybersec Tools" />
 <br/>
+<img src="https://img.shields.io/badge/Wireshark-1a1b26?style=for-the-badge&logo=wireshark&logoColor=4af626" alt="Wireshark" />
 <img src="https://img.shields.io/badge/Wazuh_SIEM-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh SIEM" />
 <img src="https://img.shields.io/badge/Zero--Trust-1a1b26?style=for-the-badge&logo=letsencrypt&logoColor=4af626" alt="Zero-Trust" />
 <img src="https://img.shields.io/badge/Scapy-1a1b26?style=for-the-badge&logo=python&logoColor=4af626" alt="Scapy" />
