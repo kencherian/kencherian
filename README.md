@@ -85,16 +85,20 @@ ken_os@server:~$ ping -c 1 external_networks
 ```
 
 <p>
-  <a href="https://www.linkedin.com/in/ken-cherian">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://retro-windows-98-web-os-portfolio-ken-cherian.ai.studio/">
+    <img src="https://img.shields.io/badge/Portfolio_%2F%2F_Website-1a1b26?style=for-the-badge&logo=gnometerminal&logoColor=4af626" alt="Portfolio Website" />
   </a>
+  
+  <a href="https://www.linkedin.com/in/ken-cherian">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </p>
 
 ```bash
 ken_os@server:~$ ./display_telemetry.exe --ui="tokyonight" --metrics="all"
 ```
 
-<!-- OPTION 2: SIDE-BY-SIDE STATS & TOP LANGUAGES -->
+<!-- SIDE-BY-SIDE STATS & TOP LANGUAGES -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kencherian&show_icons=true&bg_color=1A1B26&title_color=4AF626&icon_color=4AF626&text_color=C0CAF5&border_color=4AF626" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kencherian&layout=compact&bg_color=1A1B26&title_color=4AF626&text_color=C0CAF5&border_color=4AF626" alt="Top Languages" />
@@ -111,7 +115,7 @@ ken_os@server:~$ ./display_telemetry.exe --ui="tokyonight" --metrics="all"
 
 <br/>
 
-<!-- OPTION 3: CONTRIBUTION SNAKE ANIMATION -->
+<!-- CONTRIBUTION SNAKE ANIMATION -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kencherian/kencherian/output/github-contribution-grid-snake-dark.svg" />
@@ -120,7 +124,7 @@ ken_os@server:~$ ./display_telemetry.exe --ui="tokyonight" --metrics="all"
   </picture>
 </div>
 
-<!-- OPTION 4: ANIMATED CYBER-WAVE FOOTER -->
+<!-- ANIMATED CYBER-WAVE FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:4AF626&height=120&section=footer&text=END_OF_TRANSMISSION%20%2F%2F%20KEN_OS&fontSize=20&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" alt="Footer Wave" />
 </div>
