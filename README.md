@@ -91,11 +91,36 @@ ken_os@server:~$ ping -c 1 external_networks
 </p>
 
 ```bash
-ken_os@server:~$ ./display_telemetry.exe --ui="tokyonight" --metrics="streaks"
+ken_os@server:~$ ./display_telemetry.exe --ui="tokyonight" --metrics="all"
 ```
 
+<!-- OPTION 2: SIDE-BY-SIDE STATS & TOP LANGUAGES -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kencherian&show_icons=true&bg_color=1A1B26&title_color=4AF626&icon_color=4AF626&text_color=C0CAF5&border_color=4AF626" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kencherian&layout=compact&bg_color=1A1B26&title_color=4AF626&text_color=C0CAF5&border_color=4AF626" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION STREAKS -->
 <div align="center">
   <a href="https://github.com/kencherian">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kencherian&theme=tokyonight&border=4AF626&ring=4AF626&fire=4AF626&currStreakLabel=4AF626&background=1A1B26" alt="GitHub Contribution Streaks" />
   </a>
+</div>
+
+<br/>
+
+<!-- OPTION 3: CONTRIBUTION SNAKE ANIMATION -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kencherian/kencherian/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kencherian/kencherian/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kencherian/kencherian/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<!-- OPTION 4: ANIMATED CYBER-WAVE FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:4AF626&height=120&section=footer&text=END_OF_TRANSMISSION%20%2F%2F%20KEN_OS&fontSize=20&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" alt="Footer Wave" />
 </div>
