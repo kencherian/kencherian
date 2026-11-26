@@ -5,6 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=4AF626&center=true&vCenter=true&width=650&height=50&lines=%3E+SYS_ADMIN%3A+KEN+CHERIAN;%3E+ROLE%3A+FULL-STACK+%26+DEVSECOPS;%3E+STATUS%3A+ACTIVE_DEFENSE_MODE;%3E+SPECIALIZATION%3A+ZERO-TRUST+%2B+AI" alt="Ken Cherian Terminal Banner" />
 </a>
 
+
+<br/>
+
 <p align="center">
   <img src="https://img.shields.io/badge/NODE-PRODUCTION-1a1b26?style=flat-square&logo=gnubash&logoColor=4af626" alt="Node" />
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-1a1b26?style=flat-square&logo=statuspage&logoColor=4af626" alt="Status" />
@@ -12,6 +15,12 @@
   <img src="https://img.shields.io/badge/CLEARANCE-ROOT__SYSADMIN-1a1b26?style=flat-square&logo=superuser&logoColor=4af626" alt="Clearance" />
   <img src="https://img.shields.io/badge/LOCATION-SVPCET_7TH_SEM-1a1b26?style=flat-square&logo=googlemaps&logoColor=4af626" alt="Location" />
 </p>
+
+<!-- GREEN CIRCUIT DIVIDER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B26,50:4AF626,100:1A1B26&height=2" alt="Divider" />
+</div>
+<br/>
 
 </div>
 
@@ -31,6 +40,11 @@ ken_os@server:~$ neofetch --config /etc/ken_os/telemetry.conf
 
 + [STATUS: ONLINE]   ! [ARCH: DISTRIBUTED]   - [MONITOR: TOKYONIGHT_HUD]
 ```
+<!-- GREEN CIRCUIT DIVIDER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B26,50:4AF626,100:1A1B26&height=2" alt="Divider" />
+</div>
+<br/>
 
 ```bash
 ken_os@server:~$ ./run_diagnostics.sh --modules="ALL"
@@ -77,7 +91,11 @@ ken_os@server:~$ ./run_diagnostics.sh --modules="ALL"
 <img src="https://img.shields.io/badge/VAPT-1a1b26?style=for-the-badge&logo=hackthebox&logoColor=4af626" alt="VAPT" />
 <img src="https://img.shields.io/badge/Cryptography-1a1b26?style=for-the-badge&logo=keycdn&logoColor=4af626" alt="Cryptography" />
 </details>
-
+<!-- GREEN CIRCUIT DIVIDER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B26,50:4AF626,100:1A1B26&height=2" alt="Divider" />
+</div>
+<br/>
 <br/>
 
 ```bash
@@ -93,6 +111,12 @@ ken_os@server:~$ ping -c 1 external_networks
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
+
+<!-- GREEN CIRCUIT DIVIDER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B26,50:4AF626,100:1A1B26&height=2" alt="Divider" />
+</div>
+<br/>
 
 ```bash
 ken_os@server:~$ ./display_telemetry.exe --ui="tokyonight" --metrics="all"
@@ -114,7 +138,11 @@ ken_os@server:~$ ./display_telemetry.exe --ui="tokyonight" --metrics="all"
 </div>
 
 <br/>
-
+<!-- GREEN CIRCUIT DIVIDER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B26,50:4AF626,100:1A1B26&height=2" alt="Divider" />
+</div>
+<br/>
 <!-- CONTRIBUTION SNAKE ANIMATION -->
 <div align="center">
   <picture>
@@ -124,6 +152,7 @@ ken_os@server:~$ ./display_telemetry.exe --ui="tokyonight" --metrics="all"
   </picture>
 </div>
 
+<br/>
 <!-- ANIMATED CYBER-WAVE FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,100:4AF626&height=120&section=footer&text=END_OF_TRANSMISSION%20%2F%2F%20KEN_OS&fontSize=20&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" alt="Footer Wave" />
